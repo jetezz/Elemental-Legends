@@ -1,0 +1,24 @@
+ 
+Posible Solución 1:
+
+    //pos_y = pos_y + (velocity_y * time_difference) + (gravity_y * (time_difference ^ 2) / 2) velocity_y = velocity_y + (acceleration_y * time_difference)
+    
+Función parabola:
+
+    y = a*x² + b*x + c
+    
+    y = x * tan(a) - (g * (x² / 2) * v² * cos² a), siendo: a --> angulo de salida
+                                                           v --> velocidad inicial
+                                                           g --> constante de gravedad (9.8, valor aproximado: 10)
+    
+    Enlace web: http://nachocabanes.blogspot.com/2011/06/tiro-parabolico.html
+    
+    Otro Enlace web: https://programacion1z.wordpress.com/2012/02/02/tiro-parabolico/
+    
+    Otro Enlace web: http://angelgraficacion.blogspot.com/2012/02/programacion-numerica.html
+    
+    Otro Enlace web: http://laplace.us.es/wiki/index.php/Movimiento_en_un_tiro_parabólico
+    
+    Otro Enlace web: http://recursostic.educacion.es/descartes/web/materiales_didacticos/comp_movimientos/parabolico.htm
+    
+    

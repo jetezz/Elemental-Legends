@@ -1,0 +1,6 @@
+modelos/plano.obj
+modelos/plano.png
+0,-4,0
+tree
+true
+true
